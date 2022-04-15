@@ -1,6 +1,7 @@
 {
   "name": "open-coverage-file",
   "author": "Cyrus Duong <cyrusduong@gmail.com>",
+  "repository": "cyrusduong/open-coverage-file",
   "displayName": "Open Coverage File",
   "description": "This extension opens the related coverage file for the current source file you are editing.",
   "version": "1.0.0",
